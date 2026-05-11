@@ -36,7 +36,7 @@ import ViewCourse from "./pages/ViewCourse";
 import VideoDetails from './components/core/ViewCourse/VideoDetails';
 
 import { ACCOUNT_TYPE } from './utils/constants';
-import Chatbot from "./components/common/Chatbot";
+import Chatbot from "./components/common/chatbot";
 
 import { HiArrowNarrowUp } from "react-icons/hi"
 
